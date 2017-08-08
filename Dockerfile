@@ -1,5 +1,6 @@
+
 FROM lsiobase/alpine.python.arm64:3.6
-MAINTAINER sparklyballs
+MAINTAINER giejay
 
 # set version label
 ARG BUILD_DATE
